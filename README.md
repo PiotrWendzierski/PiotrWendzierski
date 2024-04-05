@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 All of my projects are available at [https://github.com/PiotrWendzierski](https://github.com/PiotrWendzierski)
+- 👨‍💻 All of my projects are available at (https://github.com/PiotrWendzierski?tab=repositories)
 
 - 📫 How to reach me **piotrwendzierski@gmail.com**
 
